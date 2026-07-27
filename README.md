@@ -8,9 +8,11 @@ THIS IS MY FIRST GITHUB REPOSITORY  , AND MY INTO
 💡 Tech Enthusiast passionate about software development and continuous learning.
 
 🌱 Currently Learning:
-• Python
-• MySQL
-• NumPy
+>SPARK
+>WINDOW FUNCTIONS
+>COMMA TABLE EXPRESSIONS
+>DELTA LAKE
+>ETC
 
 🎯 Goals:
 • Build real-world projects
