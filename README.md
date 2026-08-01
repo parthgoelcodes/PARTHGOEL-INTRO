@@ -6,7 +6,8 @@ THIS IS MY FIRST GITHUB REPOSITORY  , AND MY INTO
 🎓 First-Year Computer Science Student at JMIT(Seth Jai Parkash Mukand Lal Institute of Engineering & Technology)
 
 💡 Tech Enthusiast passionate about software development and continuous learning.
-💡ON A MISSION TO BECOME AN DATA ENGEENER
+<br>
+💡ON A MISSION TO BECOME AN DATA Engineer
 
 
 🌱 Currently Learning:
