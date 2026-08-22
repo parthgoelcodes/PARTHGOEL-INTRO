@@ -11,15 +11,18 @@ THIS IS MY FIRST GITHUB REPOSITORY  , AND MY INTO
 
 
 🌱 Currently Learning:
->APACHE SPARK
->WINDOW FUNCTIONS
->COMMA TABLE EXPRESSIONS
->DELTA LAKE
+>APACHE SPARK<br>
+>WINDOW FUNCTIONS<br>
+>COMMA TABLE EXPRESSIONS<br>
+>DELTA LAKE<br>
 >ETC
 
 🎯 Goals:
 • Build real-world projects
 • Improve problem-solving skills
 • Learn new technologies consistently
+
+** 22 August 2026 **
+Completed a PySpark course today and will continue practicing PySpark transformations daily. I also learned fundamental Apache Spark concepts, including clusters, worker nodes, and Spark architecture, which helped me build a better understanding of how Spark works internally.
 
 ⭐ Always learning. Always building.
