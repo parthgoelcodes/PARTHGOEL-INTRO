@@ -28,3 +28,5 @@ THIS IS MY FIRST GITHUB REPOSITORY  , AND MY INTO
 Completed a PySpark course today and will continue practicing PySpark transformations daily. I also learned fundamental Apache Spark concepts, including clusters, worker nodes, and Spark architecture, which helped me build a better understanding of how Spark works internally.
 
 ⭐ Always learning. Always building.
+
+@ CURRENTLY I AM FOCUSING ON THE CONCEPT OF OPPS SO THAT I CAN UNDERSTAND CONCEPT OF FASTAPI MASTER AND EFFECTIVELY.
